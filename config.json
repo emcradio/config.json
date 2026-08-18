@@ -9,7 +9,7 @@
         "title":"EMC Radio",
         "provider":"radio",
         "arguments":[
-          "https://c22.radioboss.fm:8040/stream"
+          "http://c22.radioboss.fm:8040/stream"
         ]
       },
 
